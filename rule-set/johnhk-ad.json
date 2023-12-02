@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "rules": [
+     "domain_keyword": [
+          "duomeng",
+          "adsmogo",
+          "traffic",
+          "analytics"
+     ],
+     "domain_suffix": [
+       "adwo.com",
+       "ad.unimhk.com",
+       "aduu.cn",
+       "advertising.com",
+       "adview.cn",
+       "adwhirl.com",
+       "anquan.org",
+       "adzerk.net",
+       "adxmi.com",
+       "adwo.com",
+       "appads.com",
+       "applifier.com",
+       "appsflyer.com",
+       "baidustatic.com",
+       "baifendian.com",
+       "bam.nr-data.net",
+       "beacon.sina.com.cn",
+       "cnzz.com",
+       "domob.com.cn",
+       "domob.org",
+       "doubleclick.net",
+       "irs01.com",
+       "data.vod.itc.cn",
+       "tanx.com",
+       "adjust.com",
+       "cmcore.com",
+       "coremetrics.com",
+       "cnzz.com",
+       "doubleclick.net",
+       "mmstat.com",
+       "admaster.com.cn"
+     ]     
+  ]
+}
